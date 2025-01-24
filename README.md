@@ -8,6 +8,9 @@ This repository contains the code and analysis for Task 2 of my Data Science int
 
 # Task-02 Data Cleaning and Exploratory Data Analysis (EDA)  
 
+### 💡 **Objective**:  
+
+The objective of Task 2 was to perform data cleaning and exploratory data analysis (EDA) on a dataset to gain insights into its variables. Using the Titanic dataset, I explored relationships between key factors such as gender, passenger class, age, fare, and survival rates, uncovering patterns and trends through visualizations.
 
 
 ### 📂 Dataset  
